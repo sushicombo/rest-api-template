@@ -1,1 +1,1 @@
-# mythical-game-api
+#REST API Template
